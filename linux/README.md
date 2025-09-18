@@ -13,5 +13,5 @@ extension and MIME types.  Thy are located at:
 
 `oodproxy-launcher-build` is a script to build a .deb package for Debian/Ubuntu.
 
-A .deb package is included in the repo.  At some point we would like to create
+A .deb package is included in the release.  At some point we would like to create
 an actual repo for this and for .rpm packages.  Hopefully soon...
