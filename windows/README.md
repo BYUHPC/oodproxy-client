@@ -3,7 +3,7 @@
 ## Overview
 This Windows Client provides a secure connection tunnel for Remote Desktop Protocol (RDP) and Virtual Network Computing (VNC) sessions through Open OnDemand at BYU. It uses Stunnel to create a TLS encrypted tunnel to the remote proxy server.
 
-The provide source code and installer should work for any institution without alterations or customization.  It functions entirely off of the downloaded config files.  They only thing specific to BYU with this installer and software is the name.  See the README file in the source directory for more information on how to build the executable and installer.
+The provided source code and installer should work for any institution without alterations or customization.  It functions entirely off of the downloaded config files.  They only thing specific to BYU with this installer and software is the name.  See the README file in the source directory for more information on how to build the executable and installer.
 
 ## Downloading the client 
 
@@ -20,4 +20,5 @@ To establish a connection to a Windows VM, start a relevant Open OnDemand job, t
 ### Troubleshooting
 - If the connection fails, verify that Stunnel is correctly installed
 - The application looks for Stunnel in standard installation locations and PATH
+
 
