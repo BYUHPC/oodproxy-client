@@ -1,3 +1,5 @@
+See [wiki](https://github.com/BYUHPC/oodproxy-client/wiki) for installation instructions.
+
 See latest release for pre-built client downloads.
 
 oodproxy client code in subdirectories for Linux and Windows.
